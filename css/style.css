@@ -1,3 +1,4 @@
+
 .row{
     background-color: blue;
     height: 30px;
@@ -5,4 +6,10 @@
 }
 .col{
     border: 1px solid white;
+}
+.container{
+    padding-bottom: 2rem;
+}
+.nested{
+    padding: 10px;
 }

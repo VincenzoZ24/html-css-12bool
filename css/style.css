@@ -7,9 +7,16 @@
 .col{
     border: 1px solid white;
 }
+.row-green .col{
+    border: 1px solid blue;
+}
 .container{
     padding-bottom: 2rem;
 }
 .nested{
     padding: 10px;
+}
+.row-green{
+    min-height:30px ;
+    background-color: green;
 }
